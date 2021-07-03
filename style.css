@@ -1,8 +1,60 @@
 .maindiv{}
-.div1{}
-.div2{}
-.div3{}
-.div4{}
-.div5{}
-.div6{}
-.footer{}
+.div1{
+    color: rgb(46, 61, 73);
+    text-align: center;
+    background-image: url(./chemistry.png);
+    padding: 80px;
+    
+    
+}
+.div1 h1{
+    font-size: 45px;
+}
+.div2{
+    color: black;
+    margin: o auto;
+    padding: 10px;
+    text-align: center;
+}
+.div2 h3{
+    font-size: 25px;
+}
+.div3{
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    width: 250px;
+    
+}
+.div4{
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    width: 250px;
+    margin-top: 5px;
+}
+.div5{
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    width: 250px;
+    margin-top: 5px;
+}
+.div6{
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    width: 250px;
+    margin-top: 5px;
+}
+.footer{
+    color: rgb(244, 247, 241);
+    background-color: brown;
+    text-align: center;
+    padding: 8px;
+}
+.bodydiv{
+    
+    background: rgb(166, 255, 0);
+    padding: 10px;
+}
